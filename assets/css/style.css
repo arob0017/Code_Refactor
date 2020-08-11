@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.img-digital-marketing-meeting {
+.background-marketing-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -60,7 +60,7 @@ p {
 }
 
 
-article {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
