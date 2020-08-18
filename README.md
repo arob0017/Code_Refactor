@@ -7,3 +7,5 @@ I have done this by adding in semantic HTML elements to replace the unorganised 
 By doing these things, it is now more acessible for future developers that are to edit this code.  
 
 http://arob0017.github.io/Code_Refactor/
+
+
